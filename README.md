@@ -16,7 +16,7 @@ This simple calculator project is designed to perform basic arithmetic operation
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/abdul-1432/Calculator
    ```
 
 2. Navigate to the project directory:
